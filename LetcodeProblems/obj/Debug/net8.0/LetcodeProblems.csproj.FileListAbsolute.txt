@@ -1,0 +1,14 @@
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\LetcodeProblems\bin\Debug\net8.0\LetcodeProblems.exe
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\LetcodeProblems\bin\Debug\net8.0\LetcodeProblems.deps.json
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\LetcodeProblems\bin\Debug\net8.0\LetcodeProblems.runtimeconfig.json
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\LetcodeProblems\bin\Debug\net8.0\LetcodeProblems.dll
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\LetcodeProblems\bin\Debug\net8.0\LetcodeProblems.pdb
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\LetcodeProblems\obj\Debug\net8.0\LetcodeProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\LetcodeProblems\obj\Debug\net8.0\LetcodeProblems.AssemblyInfoInputs.cache
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\LetcodeProblems\obj\Debug\net8.0\LetcodeProblems.AssemblyInfo.cs
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\LetcodeProblems\obj\Debug\net8.0\LetcodeProblems.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\LetcodeProblems\obj\Debug\net8.0\LetcodeProblems.dll
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\LetcodeProblems\obj\Debug\net8.0\refint\LetcodeProblems.dll
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\LetcodeProblems\obj\Debug\net8.0\LetcodeProblems.pdb
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\LetcodeProblems\obj\Debug\net8.0\LetcodeProblems.genruntimeconfig.cache
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\LetcodeProblems\obj\Debug\net8.0\ref\LetcodeProblems.dll

@@ -1,0 +1,14 @@
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\RomanToInt\bin\Debug\net8.0\RomanToInt.exe
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\RomanToInt\bin\Debug\net8.0\RomanToInt.deps.json
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\RomanToInt\bin\Debug\net8.0\RomanToInt.runtimeconfig.json
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\RomanToInt\bin\Debug\net8.0\RomanToInt.dll
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\RomanToInt\bin\Debug\net8.0\RomanToInt.pdb
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\RomanToInt\obj\Debug\net8.0\RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\RomanToInt\obj\Debug\net8.0\RomanToInt.AssemblyInfoInputs.cache
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\RomanToInt\obj\Debug\net8.0\RomanToInt.AssemblyInfo.cs
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\RomanToInt\obj\Debug\net8.0\RomanToInt.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\RomanToInt\obj\Debug\net8.0\RomanToInt.dll
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\RomanToInt\obj\Debug\net8.0\refint\RomanToInt.dll
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\RomanToInt\obj\Debug\net8.0\RomanToInt.pdb
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\RomanToInt\obj\Debug\net8.0\RomanToInt.genruntimeconfig.cache
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\RomanToInt\obj\Debug\net8.0\ref\RomanToInt.dll
