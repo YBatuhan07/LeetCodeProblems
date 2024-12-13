@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Parentheses", "Valid 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedList", "MergeTwoSortedList\MergeTwoSortedList.csproj", "{3F3EDA2F-6A05-4831-984C-B809D01836AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{3D1DF26A-B312-4B73-9A43-DE951FF2A55F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3F3EDA2F-6A05-4831-984C-B809D01836AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F3EDA2F-6A05-4831-984C-B809D01836AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F3EDA2F-6A05-4831-984C-B809D01836AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1DF26A-B312-4B73-9A43-DE951FF2A55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1DF26A-B312-4B73-9A43-DE951FF2A55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1DF26A-B312-4B73-9A43-DE951FF2A55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1DF26A-B312-4B73-9A43-DE951FF2A55F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
