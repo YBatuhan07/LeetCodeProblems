@@ -1,0 +1,14 @@
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\bin\Debug\net9.0\FindTheIndex.exe
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\bin\Debug\net9.0\FindTheIndex.deps.json
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\bin\Debug\net9.0\FindTheIndex.runtimeconfig.json
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\bin\Debug\net9.0\FindTheIndex.dll
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\bin\Debug\net9.0\FindTheIndex.pdb
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.AssemblyInfoInputs.cache
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.AssemblyInfo.cs
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.dll
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\obj\Debug\net9.0\refint\FindTheIndex.dll
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.pdb
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.genruntimeconfig.cache
+C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\obj\Debug\net9.0\ref\FindTheIndex.dll
