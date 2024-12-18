@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bkesk\\Desktop\\Letcode Solutions\\LetcodeProblems\\LongostCommonPrefix\\LongostCommonPrefix.csproj": {}
+    "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\LongostCommonPrefix\\LongostCommonPrefix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bkesk\\Desktop\\Letcode Solutions\\LetcodeProblems\\LongostCommonPrefix\\LongostCommonPrefix.csproj": {
+    "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\LongostCommonPrefix\\LongostCommonPrefix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\Letcode Solutions\\LetcodeProblems\\LongostCommonPrefix\\LongostCommonPrefix.csproj",
+        "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\LongostCommonPrefix\\LongostCommonPrefix.csproj",
         "projectName": "LongostCommonPrefix",
-        "projectPath": "C:\\Users\\bkesk\\Desktop\\Letcode Solutions\\LetcodeProblems\\LongostCommonPrefix\\LongostCommonPrefix.csproj",
+        "projectPath": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\LongostCommonPrefix\\LongostCommonPrefix.csproj",
         "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bkesk\\Desktop\\Letcode Solutions\\LetcodeProblems\\LongostCommonPrefix\\obj\\",
+        "outputPath": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\LongostCommonPrefix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

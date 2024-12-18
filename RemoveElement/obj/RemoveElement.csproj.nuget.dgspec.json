@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bkesk\\Desktop\\Letcode Solutions\\LetcodeProblems\\RemoveElement\\RemoveElement.csproj": {}
+    "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\RemoveElement\\RemoveElement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bkesk\\Desktop\\Letcode Solutions\\LetcodeProblems\\RemoveElement\\RemoveElement.csproj": {
+    "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\RemoveElement\\RemoveElement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\Letcode Solutions\\LetcodeProblems\\RemoveElement\\RemoveElement.csproj",
+        "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\RemoveElement\\RemoveElement.csproj",
         "projectName": "RemoveElement",
-        "projectPath": "C:\\Users\\bkesk\\Desktop\\Letcode Solutions\\LetcodeProblems\\RemoveElement\\RemoveElement.csproj",
+        "projectPath": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\RemoveElement\\RemoveElement.csproj",
         "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bkesk\\Desktop\\Letcode Solutions\\LetcodeProblems\\RemoveElement\\obj\\",
+        "outputPath": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\RemoveElement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
