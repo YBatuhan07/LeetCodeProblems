@@ -1,0 +1,14 @@
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\AddBinary\bin\Debug\net8.0\AddBinary.exe
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\AddBinary\bin\Debug\net8.0\AddBinary.deps.json
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\AddBinary\bin\Debug\net8.0\AddBinary.runtimeconfig.json
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\AddBinary\bin\Debug\net8.0\AddBinary.dll
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\AddBinary\bin\Debug\net8.0\AddBinary.pdb
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\AddBinary\obj\Debug\net8.0\AddBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\AddBinary\obj\Debug\net8.0\AddBinary.AssemblyInfoInputs.cache
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\AddBinary\obj\Debug\net8.0\AddBinary.AssemblyInfo.cs
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\AddBinary\obj\Debug\net8.0\AddBinary.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\AddBinary\obj\Debug\net8.0\AddBinary.dll
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\AddBinary\obj\Debug\net8.0\refint\AddBinary.dll
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\AddBinary\obj\Debug\net8.0\AddBinary.pdb
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\AddBinary\obj\Debug\net8.0\AddBinary.genruntimeconfig.cache
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\AddBinary\obj\Debug\net8.0\ref\AddBinary.dll

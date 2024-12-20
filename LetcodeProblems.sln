@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "Sea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{538FD93F-75CD-4148-A7D3-825B91FDDD93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{746F7BDE-31DF-4D6D-82DA-29675A0E09BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddBinary.csproj", "{241D2F2D-302B-486F-BA4E-304C426A34E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{538FD93F-75CD-4148-A7D3-825B91FDDD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{538FD93F-75CD-4148-A7D3-825B91FDDD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{538FD93F-75CD-4148-A7D3-825B91FDDD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746F7BDE-31DF-4D6D-82DA-29675A0E09BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746F7BDE-31DF-4D6D-82DA-29675A0E09BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746F7BDE-31DF-4D6D-82DA-29675A0E09BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746F7BDE-31DF-4D6D-82DA-29675A0E09BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241D2F2D-302B-486F-BA4E-304C426A34E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241D2F2D-302B-486F-BA4E-304C426A34E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241D2F2D-302B-486F-BA4E-304C426A34E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241D2F2D-302B-486F-BA4E-304C426A34E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
