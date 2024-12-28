@@ -1,0 +1,14 @@
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\SameTree\bin\Debug\net8.0\SameTree.exe
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\SameTree\bin\Debug\net8.0\SameTree.deps.json
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\SameTree\bin\Debug\net8.0\SameTree.runtimeconfig.json
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\SameTree\bin\Debug\net8.0\SameTree.dll
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\SameTree\bin\Debug\net8.0\SameTree.pdb
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\SameTree\obj\Debug\net8.0\SameTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\SameTree\obj\Debug\net8.0\SameTree.AssemblyInfoInputs.cache
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\SameTree\obj\Debug\net8.0\SameTree.AssemblyInfo.cs
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\SameTree\obj\Debug\net8.0\SameTree.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\SameTree\obj\Debug\net8.0\SameTree.dll
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\SameTree\obj\Debug\net8.0\refint\SameTree.dll
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\SameTree\obj\Debug\net8.0\SameTree.pdb
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\SameTree\obj\Debug\net8.0\SameTree.genruntimeconfig.cache
+C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\SameTree\obj\Debug\net8.0\ref\SameTree.dll
