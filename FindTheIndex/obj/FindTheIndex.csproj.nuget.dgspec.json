@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\FindTheIndex\\FindTheIndex.csproj": {}
+    "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\FindTheIndex\\FindTheIndex.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\FindTheIndex\\FindTheIndex.csproj": {
+    "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\FindTheIndex\\FindTheIndex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\FindTheIndex\\FindTheIndex.csproj",
+        "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\FindTheIndex\\FindTheIndex.csproj",
         "projectName": "FindTheIndex",
-        "projectPath": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\FindTheIndex\\FindTheIndex.csproj",
+        "projectPath": "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\FindTheIndex\\FindTheIndex.csproj",
         "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\FindTheIndex\\obj\\",
+        "outputPath": "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\FindTheIndex\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

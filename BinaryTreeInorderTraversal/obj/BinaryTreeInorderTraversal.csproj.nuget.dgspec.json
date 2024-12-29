@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\BinaryTreeInorderTraversal\\BinaryTreeInorderTraversal.csproj": {}
+    "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\BinaryTreeInorderTraversal\\BinaryTreeInorderTraversal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\BinaryTreeInorderTraversal\\BinaryTreeInorderTraversal.csproj": {
+    "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\BinaryTreeInorderTraversal\\BinaryTreeInorderTraversal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\BinaryTreeInorderTraversal\\BinaryTreeInorderTraversal.csproj",
+        "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\BinaryTreeInorderTraversal\\BinaryTreeInorderTraversal.csproj",
         "projectName": "BinaryTreeInorderTraversal",
-        "projectPath": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\BinaryTreeInorderTraversal\\BinaryTreeInorderTraversal.csproj",
+        "projectPath": "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\BinaryTreeInorderTraversal\\BinaryTreeInorderTraversal.csproj",
         "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\BinaryTreeInorderTraversal\\obj\\",
+        "outputPath": "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\BinaryTreeInorderTraversal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

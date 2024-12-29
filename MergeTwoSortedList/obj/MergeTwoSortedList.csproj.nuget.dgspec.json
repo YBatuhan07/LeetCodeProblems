@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj": {}
+    "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj": {
+    "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj",
+        "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj",
         "projectName": "MergeTwoSortedList",
-        "projectPath": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj",
+        "projectPath": "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj",
         "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\MergeTwoSortedList\\obj\\",
+        "outputPath": "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\MergeTwoSortedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

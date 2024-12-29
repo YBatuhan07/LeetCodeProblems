@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\SameTree\\SameTree.csproj",
+      "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\SameTree\\SameTree.csproj",
       "projectName": "SameTree",
-      "projectPath": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\SameTree\\SameTree.csproj",
+      "projectPath": "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\SameTree\\SameTree.csproj",
       "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\SameTree\\obj\\",
+      "outputPath": "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\SameTree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

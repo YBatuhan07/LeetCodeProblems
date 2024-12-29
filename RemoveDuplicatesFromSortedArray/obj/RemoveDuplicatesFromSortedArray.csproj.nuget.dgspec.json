@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj": {}
+    "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj": {
+    "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj",
+        "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj",
         "projectName": "RemoveDuplicatesFromSortedArray",
-        "projectPath": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj",
+        "projectPath": "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj",
         "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bkesk\\Desktop\\Proje Dosyalarım\\Devam Eden Projeler\\Letcode Solutions\\LetcodeProblems\\RemoveDuplicatesFromSortedArray\\obj\\",
+        "outputPath": "C:\\Users\\bkesk\\source\\repos\\YBatuhan07\\LetCodeProblems\\RemoveDuplicatesFromSortedArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
