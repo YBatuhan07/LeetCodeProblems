@@ -1,0 +1,12 @@
+# Visual Studio tarafından oluşturulan dosyalar
+.vs/
+*.user
+*.suo
+
+# Derleme dosyaları
+bin/
+obj/
+
+# Geçici dosyalar
+*.log
+*.tmp
