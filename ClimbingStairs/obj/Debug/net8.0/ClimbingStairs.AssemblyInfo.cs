@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClimbingStairs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1d04e3758a7c2c30e5f757ed6bdf76cc5e9760b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93c1b4a06e67eb18152dada31bef296e8b372e31")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClimbingStairs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClimbingStairs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

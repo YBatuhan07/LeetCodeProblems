@@ -43,8 +43,8 @@
                 new TreeNode(2),
                 new TreeNode(3));
 
-            Console.WriteLine("Answer: 3, Result: " + program.MaxDepth(root));
             Console.WriteLine("Answer: 2, Result: " + program.MaxDepth(root2));
+            Console.WriteLine("Answer: 3, Result: " + program.MaxDepth(root));
         }
     }
 }
