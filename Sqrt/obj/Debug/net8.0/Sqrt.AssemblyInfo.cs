@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sqrt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07371d5849bfd1e9438bdd5d2e67b31d275780c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb330940cc26d64d4c0d79908267ecc1452ebf3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sqrt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sqrt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
