@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Polindrome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb330940cc26d64d4c0d79908267ecc1452ebf3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96982cfa4475fd47739080caef251230d9463f1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Polindrome")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Polindrome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

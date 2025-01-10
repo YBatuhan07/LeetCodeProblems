@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToeplitzMatrix", "ToeplitzM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalsTriangle", "PascalsTriangle\PascalsTriangle.csproj", "{D99F478B-1FE3-42FC-8B0F-CA62C44EFC76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumber", "SingleNumber\SingleNumber.csproj", "{7A77555F-5533-4B54-BEE8-2DFF150185DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{D99F478B-1FE3-42FC-8B0F-CA62C44EFC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D99F478B-1FE3-42FC-8B0F-CA62C44EFC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D99F478B-1FE3-42FC-8B0F-CA62C44EFC76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A77555F-5533-4B54-BEE8-2DFF150185DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A77555F-5533-4B54-BEE8-2DFF150185DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A77555F-5533-4B54-BEE8-2DFF150185DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A77555F-5533-4B54-BEE8-2DFF150185DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
