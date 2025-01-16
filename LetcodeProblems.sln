@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalsTriangle", "PascalsT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumber", "SingleNumber\SingleNumber.csproj", "{7A77555F-5533-4B54-BEE8-2DFF150185DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrappingRainWater", "TrappingRainWater\TrappingRainWater.csproj", "{4C453C74-7410-4AF5-993A-ECD77D8ED4B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{7A77555F-5533-4B54-BEE8-2DFF150185DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A77555F-5533-4B54-BEE8-2DFF150185DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A77555F-5533-4B54-BEE8-2DFF150185DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C453C74-7410-4AF5-993A-ECD77D8ED4B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C453C74-7410-4AF5-993A-ECD77D8ED4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C453C74-7410-4AF5-993A-ECD77D8ED4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C453C74-7410-4AF5-993A-ECD77D8ED4B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

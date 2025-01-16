@@ -4,7 +4,10 @@ internal class Program
 {
     public static int SingleNumber(int[] nums)
     {
-        return nums.GroupBy(x => x).Where(g => g.Count() == 1).Select(x => x.Key).First();
+        return nums.GroupBy(x => x)
+            .Where(g => g.Count() == 1)
+            .Select(x => x.Key)
+            .First();
     }
 
     public static int SingleNumber2(int[] nums)
@@ -22,5 +25,6 @@ internal class Program
         Console.WriteLine("Answer: 1 , Result: " + SingleNumber2(new int[] { 2, 2, 1 }));
         Console.WriteLine("Answer: 4 , Result: " + SingleNumber2(new int[] { 4, 1, 2, 1, 2 }));
         Console.WriteLine("Answer: 1 , Result: " + SingleNumber2(new int[] { 1 }));
+
     }
 }
