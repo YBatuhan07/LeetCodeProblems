@@ -12,3 +12,18 @@ C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\obj\Debug\
 C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.pdb
 C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.genruntimeconfig.cache
 C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\FindTheIndex\obj\Debug\net9.0\ref\FindTheIndex.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\FindTheIndex\bin\Debug\net9.0\FindTheIndex.exe
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\FindTheIndex\bin\Debug\net9.0\FindTheIndex.deps.json
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\FindTheIndex\bin\Debug\net9.0\FindTheIndex.runtimeconfig.json
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\FindTheIndex\bin\Debug\net9.0\FindTheIndex.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\FindTheIndex\bin\Debug\net9.0\FindTheIndex.pdb
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.AssemblyInfoInputs.cache
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.AssemblyInfo.cs
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.sourcelink.json
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\FindTheIndex\obj\Debug\net9.0\refint\FindTheIndex.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.pdb
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\FindTheIndex\obj\Debug\net9.0\FindTheIndex.genruntimeconfig.cache
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\FindTheIndex\obj\Debug\net9.0\ref\FindTheIndex.dll

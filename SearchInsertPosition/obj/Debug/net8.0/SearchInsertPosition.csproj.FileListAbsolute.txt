@@ -12,3 +12,18 @@ C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\SearchInsertPosition\ob
 C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.pdb
 C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.genruntimeconfig.cache
 C:\Users\bkesk\Desktop\Letcode Solutions\LetcodeProblems\SearchInsertPosition\obj\Debug\net8.0\ref\SearchInsertPosition.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\SearchInsertPosition\bin\Debug\net8.0\SearchInsertPosition.exe
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\SearchInsertPosition\bin\Debug\net8.0\SearchInsertPosition.deps.json
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\SearchInsertPosition\bin\Debug\net8.0\SearchInsertPosition.runtimeconfig.json
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\SearchInsertPosition\bin\Debug\net8.0\SearchInsertPosition.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\SearchInsertPosition\bin\Debug\net8.0\SearchInsertPosition.pdb
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.AssemblyInfoInputs.cache
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.AssemblyInfo.cs
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.sourcelink.json
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\SearchInsertPosition\obj\Debug\net8.0\refint\SearchInsertPosition.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.pdb
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.genruntimeconfig.cache
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\SearchInsertPosition\obj\Debug\net8.0\ref\SearchInsertPosition.dll

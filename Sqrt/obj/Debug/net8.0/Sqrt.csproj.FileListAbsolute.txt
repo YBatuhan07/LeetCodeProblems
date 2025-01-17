@@ -12,3 +12,18 @@ C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\L
 C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\Sqrt\obj\Debug\net8.0\Sqrt.pdb
 C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\Sqrt\obj\Debug\net8.0\Sqrt.genruntimeconfig.cache
 C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\Sqrt\obj\Debug\net8.0\ref\Sqrt.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\Sqrt\bin\Debug\net8.0\Sqrt.exe
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\Sqrt\bin\Debug\net8.0\Sqrt.deps.json
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\Sqrt\bin\Debug\net8.0\Sqrt.runtimeconfig.json
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\Sqrt\bin\Debug\net8.0\Sqrt.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\Sqrt\bin\Debug\net8.0\Sqrt.pdb
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\Sqrt\obj\Debug\net8.0\Sqrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\Sqrt\obj\Debug\net8.0\Sqrt.AssemblyInfoInputs.cache
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\Sqrt\obj\Debug\net8.0\Sqrt.AssemblyInfo.cs
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\Sqrt\obj\Debug\net8.0\Sqrt.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\Sqrt\obj\Debug\net8.0\Sqrt.sourcelink.json
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\Sqrt\obj\Debug\net8.0\Sqrt.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\Sqrt\obj\Debug\net8.0\refint\Sqrt.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\Sqrt\obj\Debug\net8.0\Sqrt.pdb
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\Sqrt\obj\Debug\net8.0\Sqrt.genruntimeconfig.cache
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\Sqrt\obj\Debug\net8.0\ref\Sqrt.dll

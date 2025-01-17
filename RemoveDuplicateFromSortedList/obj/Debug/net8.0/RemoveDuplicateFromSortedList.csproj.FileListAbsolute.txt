@@ -12,3 +12,18 @@ C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\L
 C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\RemoveDuplicateFromSortedList\obj\Debug\net8.0\RemoveDuplicateFromSortedList.pdb
 C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\RemoveDuplicateFromSortedList\obj\Debug\net8.0\RemoveDuplicateFromSortedList.genruntimeconfig.cache
 C:\Users\bkesk\Desktop\Proje Dosyalarım\Devam Eden Projeler\Letcode Solutions\LetcodeProblems\RemoveDuplicateFromSortedList\obj\Debug\net8.0\ref\RemoveDuplicateFromSortedList.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\RemoveDuplicateFromSortedList\bin\Debug\net8.0\RemoveDuplicateFromSortedList.exe
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\RemoveDuplicateFromSortedList\bin\Debug\net8.0\RemoveDuplicateFromSortedList.deps.json
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\RemoveDuplicateFromSortedList\bin\Debug\net8.0\RemoveDuplicateFromSortedList.runtimeconfig.json
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\RemoveDuplicateFromSortedList\bin\Debug\net8.0\RemoveDuplicateFromSortedList.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\RemoveDuplicateFromSortedList\bin\Debug\net8.0\RemoveDuplicateFromSortedList.pdb
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\RemoveDuplicateFromSortedList\obj\Debug\net8.0\RemoveDuplicateFromSortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\RemoveDuplicateFromSortedList\obj\Debug\net8.0\RemoveDuplicateFromSortedList.AssemblyInfoInputs.cache
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\RemoveDuplicateFromSortedList\obj\Debug\net8.0\RemoveDuplicateFromSortedList.AssemblyInfo.cs
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\RemoveDuplicateFromSortedList\obj\Debug\net8.0\RemoveDuplicateFromSortedList.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\RemoveDuplicateFromSortedList\obj\Debug\net8.0\RemoveDuplicateFromSortedList.sourcelink.json
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\RemoveDuplicateFromSortedList\obj\Debug\net8.0\RemoveDuplicateFromSortedList.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\RemoveDuplicateFromSortedList\obj\Debug\net8.0\refint\RemoveDuplicateFromSortedList.dll
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\RemoveDuplicateFromSortedList\obj\Debug\net8.0\RemoveDuplicateFromSortedList.pdb
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\RemoveDuplicateFromSortedList\obj\Debug\net8.0\RemoveDuplicateFromSortedList.genruntimeconfig.cache
+C:\Users\bkesk\source\repos\YBatuhan07\LetCodeProblems\RemoveDuplicateFromSortedList\obj\Debug\net8.0\ref\RemoveDuplicateFromSortedList.dll
