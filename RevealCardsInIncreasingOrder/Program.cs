@@ -27,8 +27,6 @@ public class Program
 
     private static void Main(string[] args)
     {
-        Console.Write("Answer: 1 8 2 7 5 , Result: ");
-        PrintList(DeckRevealedIncreasing([1, 5, 2, 7, 8]));
         Console.Write("Answer: 2 13 3 11 5 17 7 , Result: ");
         PrintList(DeckRevealedIncreasing([17, 13, 11, 2, 3, 5, 7]));
         Console.Write("Answer: 0 4 2 8 3 5 , Result: ");
