@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountTheNumberOfConsistentS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subsets", "Subsets\Subsets.csproj", "{97B0DD20-AD13-43A2-904F-A8363C744A52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevealCardsInIncreasingOrder", "RevealCardsInIncreasingOrder\RevealCardsInIncreasingOrder.csproj", "{E84EEBE8-F0A0-4465-9CCE-709E7A2A5932}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{97B0DD20-AD13-43A2-904F-A8363C744A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97B0DD20-AD13-43A2-904F-A8363C744A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97B0DD20-AD13-43A2-904F-A8363C744A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E84EEBE8-F0A0-4465-9CCE-709E7A2A5932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84EEBE8-F0A0-4465-9CCE-709E7A2A5932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84EEBE8-F0A0-4465-9CCE-709E7A2A5932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E84EEBE8-F0A0-4465-9CCE-709E7A2A5932}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
