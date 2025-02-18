@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subsets", "Subsets\Subsets.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevealCardsInIncreasingOrder", "RevealCardsInIncreasingOrder\RevealCardsInIncreasingOrder.csproj", "{E84EEBE8-F0A0-4465-9CCE-709E7A2A5932}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumNumberofWordsYouCanType", "MaximumNumberofWordsYouCanType\MaximumNumberofWordsYouCanType.csproj", "{625CD9C6-660F-43ED-981C-B6CA1D0BFF62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{E84EEBE8-F0A0-4465-9CCE-709E7A2A5932}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E84EEBE8-F0A0-4465-9CCE-709E7A2A5932}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E84EEBE8-F0A0-4465-9CCE-709E7A2A5932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{625CD9C6-660F-43ED-981C-B6CA1D0BFF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625CD9C6-660F-43ED-981C-B6CA1D0BFF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625CD9C6-660F-43ED-981C-B6CA1D0BFF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625CD9C6-660F-43ED-981C-B6CA1D0BFF62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
