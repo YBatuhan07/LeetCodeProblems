@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subsets", "Subsets\Subsets.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevealCardsInIncreasingOrder", "RevealCardsInIncreasingOrder\RevealCardsInIncreasingOrder.csproj", "{E84EEBE8-F0A0-4465-9CCE-709E7A2A5932}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideArrayIntoEqualPairs", "DivideArrayIntoEqualPairs\DivideArrayIntoEqualPairs.csproj", "{B88CB539-7406-4575-BC29-A41E297A938B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,8 +203,15 @@ Global
 		{E84EEBE8-F0A0-4465-9CCE-709E7A2A5932}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E84EEBE8-F0A0-4465-9CCE-709E7A2A5932}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E84EEBE8-F0A0-4465-9CCE-709E7A2A5932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B88CB539-7406-4575-BC29-A41E297A938B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88CB539-7406-4575-BC29-A41E297A938B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88CB539-7406-4575-BC29-A41E297A938B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88CB539-7406-4575-BC29-A41E297A938B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72F6F8CB-53BD-4127-9E56-C94A320B5EED}
 	EndGlobalSection
 EndGlobal
