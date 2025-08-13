@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideArrayIntoEqualPairs",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{747546D3-D5EA-4A40-8235-22367DA98CB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUniqueCharacterInAString", "FirstUniqueCharacterInAString\FirstUniqueCharacterInAString.csproj", "{06A5A9DD-47EB-412A-A2BA-A7479AF45375}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{747546D3-D5EA-4A40-8235-22367DA98CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{747546D3-D5EA-4A40-8235-22367DA98CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{747546D3-D5EA-4A40-8235-22367DA98CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A5A9DD-47EB-412A-A2BA-A7479AF45375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A5A9DD-47EB-412A-A2BA-A7479AF45375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A5A9DD-47EB-412A-A2BA-A7479AF45375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A5A9DD-47EB-412A-A2BA-A7479AF45375}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
